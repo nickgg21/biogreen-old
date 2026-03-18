@@ -45,7 +45,7 @@
               <a class="nav-link text-uppercase text-expanded" href="doc.php">Documentación</a>
             </li>
             <li class="nav-item px-lg-4">
-              <a class="nav-link text-uppercase text-expanded" href="pqr.php">Atención al Cliente - PQR</a>
+              <a class="nav-link text-uppercase text-expanded" href="pqr.php">PQRS</a>
             </li>
             <li class="nav-item px-lg-4">
               <a class="nav-link text-uppercase text-expanded" href="contacto.php">Contacto</a>
