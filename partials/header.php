@@ -17,7 +17,7 @@
 
     <h1 class="site-heading text-center text-white d-none d-lg-block">
       <img src="img/1.png" />
-      <img src="img/logo_SERGREEN.png" style="width:30%; margin-left:10%;"/>
+      <!--<img src="img/logo_SERGREEN.png" style="width:30%; margin-left:10%;"/>-->
     </h1>
 
     <nav class="navbar navbar-expand-lg navbar-dark py-lg-4" id="mainNav">
